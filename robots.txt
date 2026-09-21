@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gpt-codex-dev.github.io/sitemap.xml
